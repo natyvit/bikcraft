@@ -1,6 +1,8 @@
 @import './global/header.css';
 @import './global/global.css';
 @import './home/introducao.css';
+@import './home/tecnologia.css';
 @import './utilites/componentes.css';
 @import './utilites/tipografia.css';
 @import './utilites/cores.css';
+@import './bicicletas/bicicletas-lista.css';
